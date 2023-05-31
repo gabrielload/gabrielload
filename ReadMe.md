@@ -1,4 +1,4 @@
-# 💫 Quem sou: Desenvolvedor Full-stack
+# 💫  Desenvolvedor Full-stack
 
 
 
